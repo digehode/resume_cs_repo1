@@ -1,2 +1,2 @@
-# resume_cs_repo1
+# Example Git Repository
 Test code and stuff for demoing git
